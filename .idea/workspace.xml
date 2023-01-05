@@ -4,35 +4,202 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ad552c8-d23a-469c-a2ce-a8c235590ff3" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Data_Structure_Demo03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/setting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/com/shf/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/com/shf/Recursion/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/com/shf/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/com/shf/sort/CountSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/com/shf/sort/DataChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/com/shf/sort/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/com/shf/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/com/shf/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/com/shf/sort/RadixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/com/shf/sort/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/com/shf/sort/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/com/shf/sort/utils/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/com/shf/sort/utils/Swap.java" afterDir="false" />
+    <list default="true" id="3ad552c8-d23a-469c-a2ce-a8c235590ff3" name="变更" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class01/Code01_SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class01/Code02_BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class01/Code03_InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class01/Code04_BSExist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class01/Code05_BSNearLeft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class01/Code05_BSNearRight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class01/Code06_BSAwesome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class02/Code01_Swap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class02/Code02_EvenTimesOddTimes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class02/Code03_KM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class03/Code01_ReverseList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class03/Code02_DeleteGivenValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class03/Code03_DoubleEndsQueueToStackAndQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class03/Code04_RingArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class03/Code05_GetMinStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class03/Code06_TwoStacksImplementQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class03/Code07_TwoQueueImplementStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class03/Code08_GetMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class03/HashMapAndSortedMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class04/Code01_MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class04/Code02_SmallSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class04/Code03_ReversePair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class04/Code04_BiggerThanRightTwice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class05/Code01_CountOfRangeSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class05/Code02_PartitionAndQuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class05/Code03_QuickSortRecursiveAndUnrecursive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class06/Code01_Comparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class06/Code02_Heap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class06/Code03_HeapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class06/Code04_SortArrayDistanceLessK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class07/Code01_CoverMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class07/Code02_EveryStepShowBoss.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class07/HeapGreater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class07/Inner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class08/Code01_TrieTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class08/Code02_TrieTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class08/Code03_CountSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class08/Code04_RadixSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class09/Code01_LinkedListMid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class09/Code02_IsPalindromeList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class09/Code03_SmallerEqualBigger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class09/Code04_CopyListWithRandom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class10/Code01_FindFirstIntersectNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class10/Code02_RecursiveTraversalBT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class10/Code03_UnRecursiveTraversalBT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class11/Code01_LevelTraversalBT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class11/Code02_SerializeAndReconstructTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class11/Code03_EncodeNaryTreeToBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class11/Code04_PrintBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class11/Code05_TreeMaxWidth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class11/Code06_SuccessorNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class11/Code07_PaperFolding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class12/Code01_IsCBT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class12/Code02_IsBST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class12/Code03_IsBalanced.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class12/Code04_IsFull.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class12/Code05_MaxSubBSTSize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class12/Code06_MaxDistance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class13/Code01_IsCBT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class13/Code02_MaxSubBSTHead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class13/Code03_lowestAncestor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class13/Code04_MaxHappy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class13/Code05_LowestLexicography.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class14/Code01_Light.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class14/Code02_LessMoneySplitGold.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class14/Code03_BestArrange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class14/Code04_IPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class14/Code05_UnionFind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class15/Code01_FriendCircles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class15/Code02_NumberOfIslands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class15/Code03_NumberOfIslandsII.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class16/Code01_BFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class16/Code02_DFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class16/Code03_TopologicalOrderBFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class16/Code03_TopologicalOrderDFS1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class16/Code03_TopologicalOrderDFS2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class16/Code03_TopologySort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class16/Code04_Kruskal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class16/Code05_Prim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class16/Code06_Dijkstra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class16/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class16/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class16/GraphGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class16/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class17/Code01_Dijkstra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class17/Code02_Hanoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class17/Code03_PrintAllSubsquences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class17/Code04_PrintAllPermutations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class17/Code05_ReverseStackUsingRecursive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class17/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class17/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class17/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class18/Code01_RobotWalk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class18/Code02_CardsInLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class19/Code01_Knapsack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class19/Code02_ConvertToLetterString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class19/Code03_StickersToSpellWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class19/Code04_LongestCommonSubsequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class20/Code01_PalindromeSubsequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class20/Code02_HorseJump.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class20/Code03_Coffee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class21/Code01_MinPathSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class21/Code02_CoinsWayEveryPaperDifferent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class21/Code03_CoinsWayNoLimit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class21/Code04_CoinsWaySameValueSamePapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class21/Code05_BobDie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class22/Code01_KillMonster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class22/Code02_MinCoinsNoLimit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class22/Code03_SplitNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class23/Code01_SplitSumClosed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class23/Code02_SplitSumClosedSizeHalf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class23/Code03_NQueens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class24/Code01_SlidingWindowMaxArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class24/Code02_AllLessNumSubArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class24/Code03_GasStation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class24/Code04_MinCoinsOnePaper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class25/Code01_MonotonousStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class25/Code02_AllTimesMinToMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class25/Code03_LargestRectangleInHistogram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class25/Code04_MaximalRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class25/Code05_CountSubmatricesWithAllOnes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class26/Code01_SumOfSubarrayMinimums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class26/Code02_FibonacciProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class26/Code03_ZeroLeftOneStringNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class27/Code01_KMP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class27/Code02_TreeEqual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class27/Code03_IsRotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class28/Code01_Manacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class28/Code02_AddShortestEnd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class29/Code01_FindMinKth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class29/Code02_MaxTopK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class29/Code03_ReservoirSampling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class30/Code01_MorrisTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class30/Code05_MinHeight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class31/Code01_SegmentTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class31/Code02_FallingSquares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class32/Code01_IndexTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class32/Code02_IndexTree2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class32/Code03_AC1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class32/Code04_AC2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class33/Hash.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class34/ReadMe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class35/Code01_AVLTreeMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class36/Code01_SizeBalancedTreeMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class36/Code02_SkipListMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class37/Code01_CountofRangeSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class37/Code02_SlidingWindowMedian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class37/Code03_AddRemoveGetIndexGreat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构体系学习班/algorithmbasic2020-master/src/class37/Compare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/algorithm-primary-main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class01/Code01_PrintBinary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class01/Code02_SumOfFactorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class01/Code03_Sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class01/Code04_SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class01/Code05_BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class01/Code06_InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class02/Code01_PreSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class02/Code02_RandToRand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class02/Code03_Comp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class02/Code03_EqualProbabilityRandom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class03/Code01_BSExist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class03/Code02_BSNearLeft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class03/Code03_BSNearRight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class03/Code04_BSAwesome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class03/Code05_HashMapTreeMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class04/Code01_ReverseList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class04/Code02_LinkedListToQueueAndStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class04/Code03_DoubleLinkedListToDeque.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class04/Code04_ReverseNodesInKGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class04/Code05_AddTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class04/Code06_MergeTwoSortedLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class05/Code01_BitMap1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class05/Code02_BitMap2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class05/Code03_BitAddMinusMultiDiv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class06/Code01_MergeKSortedLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class06/Code02_SameTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class06/Code03_SymmetricTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class06/Code04_MaximumDepthOfBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class06/Code05_ConstructBinaryTreeFromPreorderAndInorderTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class06/ShowComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class06/ShowComparator2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class06/TraversalBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class07/Code01_BinaryTreeLevelOrderTraversalII.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class07/Code02_BalancedBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class07/Code03_PathSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class07/Code04_PathSumII.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class07/Code05_IsBinarySearchTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class08/Code01_GetMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class08/Code02_MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/src/class08/Code03_PartitionAndQuickSort.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +215,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,20 +244,35 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shuho/IdeaProjects/Data_Structure_Demo03/算法和数据结构新手班 源码/algorithm-primary-main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Code06_InsertionSort">
+  <component name="RunManager" selected="应用程序.Code06_RandToRand">
+    <configuration name="Code02_SumOfFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01.Code02_SumOfFactorial" />
+      <module name="algorithm-primary-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Code06_InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class01.Code06_InsertionSort" />
       <module name="algorithm-primary-main" />
@@ -101,12 +286,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shf.sort.CountSort" />
-      <module name="Demo1" />
+    <configuration name="Code06_RandToRand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.Code06_RandToRand" />
+      <module name="algorithm-primary-main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shf.sort.*" />
+          <option name="PATTERN" value="class03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +299,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shf.sort.MergeSort" />
-      <module name="Demo1" />
+    <configuration name="Code07_PrintB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01.Code07_PrintB" />
+      <module name="algorithm-primary-main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shf.sort.*" />
+          <option name="PATTERN" value="class01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,25 +312,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shf.sort.QuickSort" />
-      <module name="Demo1" />
+    <configuration name="Code08_SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01.Code08_SelectionSort" />
+      <module name="algorithm-primary-main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shf.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RadixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shf.sort.RadixSort" />
-      <module name="Demo1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.shf.sort.*" />
+          <option name="PATTERN" value="class01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +327,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Code06_RandToRand" />
+        <item itemvalue="应用程序.Code08_SelectionSort" />
+        <item itemvalue="应用程序.Code02_SumOfFactorial" />
+        <item itemvalue="应用程序.Code07_PrintB" />
         <item itemvalue="应用程序.Code06_InsertionSort" />
-        <item itemvalue="应用程序.RadixSort" />
-        <item itemvalue="应用程序.CountSort" />
-        <item itemvalue="应用程序.QuickSort" />
-        <item itemvalue="应用程序.MergeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -173,14 +345,29 @@
       <updated>1672545207799</updated>
       <workItem from="1672545209691" duration="60000" />
       <workItem from="1672545285113" duration="19719000" />
+      <workItem from="1672890634656" duration="2199000" />
+      <workItem from="1672905432536" duration="1529000" />
+      <workItem from="1672907650776" duration="5261000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1672890873183</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672890873183</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
