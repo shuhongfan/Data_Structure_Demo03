@@ -1,0 +1,9 @@
+
+4
+java:S2119
+"Save and re-use this "Random".(¡Å”¦
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(œÃÚ¬üÿÿÿÿ8ÀŠËäÖ0
+I
+java:S1125""'Remove the unnecessary boolean literal.(œÃÚ¬üÿÿÿÿ8ÁŠËäÖ0
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Ÿ‡ã¹8õ€ÌäÖ0

@@ -1,0 +1,8 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½ãúŠ8«Ûá‹×0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(âé‚‰ÿÿÿÿÿ8•Ñä‹×0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8Ð½å‹×0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(Ì³µ¶þÿÿÿÿ8Ð½å‹×0
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(Ì³µ¶þÿÿÿÿ8œ‚ê‹×0
+K
+java:S1128")Remove this unused import 'com.shf.Main'.(·û·–ùÿÿÿÿ8Üéî‹×0

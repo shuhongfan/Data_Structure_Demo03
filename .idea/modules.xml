@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/左程云算法 源码/Algorithm-master/Algorithm-master.iml" filepath="$PROJECT_DIR$/左程云算法 源码/Algorithm-master/Algorithm-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data_Structure_Demo03.iml" filepath="$PROJECT_DIR$/.idea/Data_Structure_Demo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/algorithm-primary-main.iml" filepath="$PROJECT_DIR$/算法和数据结构新手班 源码/algorithm-primary-main/algorithm-primary-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/左程云算法 源码/algorithmbasic2020-master/algorithmbasic2020-master.iml" filepath="$PROJECT_DIR$/左程云算法 源码/algorithmbasic2020-master/algorithmbasic2020-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trainingcamp源码/trainingcamp001-master/trainingcamp001-master.iml" filepath="$PROJECT_DIR$/trainingcamp源码/trainingcamp001-master/trainingcamp001-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trainingcamp源码/trainingcamp002-master/trainingcamp002-master.iml" filepath="$PROJECT_DIR$/trainingcamp源码/trainingcamp002-master/trainingcamp002-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trainingcamp源码/trainingcamp003-master/trainingcamp003-master.iml" filepath="$PROJECT_DIR$/trainingcamp源码/trainingcamp003-master/trainingcamp003-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trainingcamp源码/trainingcamp004-master/trainingcamp004-master.iml" filepath="$PROJECT_DIR$/trainingcamp源码/trainingcamp004-master/trainingcamp004-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trainingcamp源码/trainingcamp005-master/trainingcamp005-master.iml" filepath="$PROJECT_DIR$/trainingcamp源码/trainingcamp005-master/trainingcamp005-master.iml" />
+    </modules>
+  </component>
+</project>
